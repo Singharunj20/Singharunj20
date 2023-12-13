@@ -1,3 +1,4 @@
+![logo](https://github.com/Singharunj20/Singharunj20/blob/main/APS%20Banner%201.png)
 <h1 align="center">Hi 👋, I'm Arun Pratap Singh</h1>
 <h3 align="center">A passionate Material Science Engineer from India</h3>
 
